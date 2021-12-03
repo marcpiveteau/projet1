@@ -1,0 +1,110 @@
+productname;productline;quantité;quantityinstock;buyprice;annéedestock
+"18th century schooner";Ships;434;1898;82.34;4.3733
+"18th Century Vintage Horse Carriage";"Vintage Cars";482;5992;60.74;12.4315
+"1900s Vintage Bi-Plane";Planes;496;5942;34.25;11.9798
+"1900s Vintage Tri-Plane";Planes;532;2756;36.23;5.1805
+"1903 Ford Model A";"Vintage Cars";389;3913;68.30;10.0591
+"1904 Buick Runabout";"Vintage Cars";474;8290;52.66;17.4895
+"1911 Ford Town Car";"Vintage Cars";379;540;33.30;1.4248
+"1912 Ford Model T Delivery Wagon";"Vintage Cars";489;9173;46.91;18.7587
+"1913 Ford Model T Speedster";"Vintage Cars";555;4189;60.78;7.5477
+"1917 Grand Touring Sedan";"Vintage Cars";395;2724;86.70;6.8962
+"1917 Maxwell Touring Car";"Vintage Cars";493;7913;57.54;16.0507
+"1926 Ford Fire Engine";"Trucks and Buses";442;2019;24.92;4.5679
+"1928 British Royal Navy Airplane";Planes;429;3627;66.74;8.4545
+"1928 Ford Phaeton Deluxe";"Vintage Cars";513;136;33.02;0.2651
+"1928 Mercedes-Benz SSK";"Vintage Cars";402;548;72.56;1.3632
+"1930 Buick Marquette Phaeton";"Vintage Cars";527;7062;27.06;13.4004
+"1932 Alfa Romeo 8C2300 Spider Sport";"Vintage Cars";368;6553;43.26;17.8071
+"1932 Model A Ford J-Coupe";"Vintage Cars";503;9354;58.48;18.5964
+"1934 Ford V8 Coupe";"Vintage Cars";499;5649;34.35;11.3206
+"1936 Chrysler Airflow";"Vintage Cars";535;4710;57.46;8.8037
+"1936 Harley Davidson El Knucklehead";Motorcycles;446;4357;24.23;9.7691
+"1936 Mercedes Benz 500k Roadster";"Vintage Cars";369;2081;21.75;5.6396
+"1936 Mercedes-Benz 500K Special Roadster";"Vintage Cars";398;8635;24.26;21.6960
+"1937 Horch 930V Limousine";"Vintage Cars";449;2902;26.30;6.4633
+"1937 Lincoln Berline";"Vintage Cars";578;8693;60.62;15.0398
+"1938 Cadillac V-16 Presidential Limousine";"Vintage Cars";477;2847;20.61;5.9686
+"1939 Cadillac Limousine";"Vintage Cars";480;6645;23.14;13.8438
+"1939 Chevrolet Deluxe Coupe";"Vintage Cars";436;7332;22.57;16.8165
+"1940 Ford Delivery Sedan";"Vintage Cars";387;6621;48.64;17.1085
+"1940 Ford Pickup Truck";"Trucks and Buses";492;2613;58.33;5.3110
+"1940s Ford truck";"Trucks and Buses";441;3128;84.76;7.0930
+"1941 Chevrolet Special Deluxe Cabriolet";"Vintage Cars";554;2378;64.58;4.2924
+"1948 Porsche 356-A Roadster";"Classic Cars";439;8826;53.90;20.1048
+"1948 Porsche Type 356 Roadster";"Classic Cars";367;8990;62.16;24.4959
+"1949 Jaguar XK 120";"Classic Cars";398;2350;47.25;5.9045
+"1950's Chicago Surface Lines Streetcar";Trains;445;8601;26.72;19.3281
+"1952 Alpine Renault 1300";"Classic Cars";482;7305;98.58;15.1556
+"1952 Citroen-15CV";"Classic Cars";386;1452;72.82;3.7617
+"1954 Greyhound Scenicruiser";"Trucks and Buses";504;2874;25.98;5.7024
+"1956 Porsche 356A Coupe";"Classic Cars";428;6600;98.30;15.4206
+"1957 Chevy Pickup";"Trucks and Buses";535;6125;55.70;11.4486
+"1957 Corvette Convertible";"Classic Cars";545;1249;69.93;2.2917
+"1957 Ford Thunderbird";"Classic Cars";285;3209;34.21;11.2596
+"1957 Vespa GS150";Motorcycles;483;7689;32.95;15.9193
+"1958 Chevy Corvette Limited Edition";"Classic Cars";530;2542;15.91;4.7962
+"1958 Setra Bus";"Trucks and Buses";479;1579;77.90;3.2965
+"1960 BSA Gold Star DBD34";Motorcycles;492;15;37.32;0.0305
+"1961 Chevrolet Impala";"Classic Cars";532;7869;32.33;14.7914
+"1962 City of Detroit Streetcar";Trains;477;1645;37.49;3.4486
+"1962 LanciaA Delta 16V";"Classic Cars";463;6791;103.42;14.6674
+"1962 Volkswagen Microbus";"Trucks and Buses";440;2327;61.34;5.2886
+"1964 Mercedes Tour Bus";"Trucks and Buses";438;8258;74.86;18.8539
+"1965 Aston Martin DB5";"Classic Cars";360;9042;65.96;25.1167
+"1966 Shelby Cobra 427 S/C";"Classic Cars";376;8197;29.18;21.8005
+"1968 Dodge Charger";"Classic Cars";437;9123;75.16;20.8764
+"1968 Ford Mustang";"Classic Cars";452;68;95.34;0.1504
+"1969 Chevrolet Camaro Z28";"Classic Cars";402;4695;50.51;11.6791
+"1969 Corvair Monza";"Classic Cars";451;6906;89.14;15.3126
+"1969 Dodge Charger";"Classic Cars";467;7323;58.73;15.6809
+"1969 Dodge Super Bee";"Classic Cars";467;1917;49.05;4.1049
+"1969 Ford Falcon";"Classic Cars";440;1049;83.05;2.3841
+"1969 Harley Davidson Ultimate Chopper";Motorcycles;515;7933;48.81;15.4039
+"1970 Chevy Chevelle SS 454";"Classic Cars";327;1005;49.24;3.0734
+"1970 Dodge Coronet";"Classic Cars";515;4074;32.37;7.9107
+"1970 Plymouth Hemi Cuda";"Classic Cars";432;5663;31.92;13.1088
+"1970 Triumph Spitfire";"Classic Cars";467;5545;91.92;11.8737
+"1971 Alpine Renault 1600s";"Classic Cars";452;7995;38.58;17.6881
+"1972 Alfa Romeo GTA";"Classic Cars";460;3252;85.68;7.0696
+"1974 Ducati 350 Mk3 Desmo";Motorcycles;471;3341;56.13;7.0934
+"1976 Ford Gran Torino";"Classic Cars";515;9127;73.49;17.7223
+"1980s Black Hawk Helicopter";Planes;524;5330;77.27;10.1718
+"1980’s GM Manhattan Express";"Trucks and Buses";461;5099;53.93;11.0607
+"1982 Camaro Z28";"Classic Cars";488;6934;46.53;14.2090
+"1982 Ducati 900 Monster";Motorcycles;495;6840;47.10;13.8182
+"1982 Ducati 996 R";Motorcycles;459;9241;24.14;20.1329
+"1982 Lamborghini Diablo";"Classic Cars";447;7723;16.24;17.2774
+"1992 Ferrari 360 Spider red";"Classic Cars";799;8347;77.90;10.4468
+"1992 Porsche Cayenne Turbo Silver";"Classic Cars";414;6582;69.78;15.8986
+"1993 Mazda RX-7";"Classic Cars";471;3975;83.51;8.4395
+"1995 Honda Civic";"Classic Cars";404;9772;93.89;24.1881
+"1996 Moto Guzzi 1100i";Motorcycles;488;6625;68.99;13.5758
+"1996 Peterbilt 379 Stake Bed with Outrigger";"Trucks and Buses";475;814;33.61;1.7137
+"1997 BMW F650 ST";Motorcycles;537;178;66.92;0.3315
+"1997 BMW R 1100 S";Motorcycles;494;7003;60.86;14.1761
+"1998 Chrysler Plymouth Prowler";"Classic Cars";462;4724;101.51;10.2251
+"1999 Indy 500 Monte Carlo SS";"Classic Cars";383;8164;56.76;21.3159
+"1999 Yamaha Speed Boat";Ships;405;4259;51.61;10.5160
+"2001 Ferrari Enzo";"Classic Cars";499;3619;95.59;7.2525
+"2002 Chevy Corvette";"Classic Cars";386;9446;62.11;24.4715
+"2002 Suzuki XREO";Motorcycles;527;9997;66.27;18.9696
+"2002 Yamaha YZR M1";Motorcycles;491;600;34.17;1.2220
+"2003 Harley-Davidson Eagle Drag Bike";Motorcycles;444;5582;91.02;12.5721
+"America West Airlines B757-200";Planes;498;9653;68.80;19.3835
+"American Airlines: B767-300";Planes;455;5841;51.15;12.8374
+"American Airlines: MD-11S";Planes;536;8820;36.27;16.4552
+"ATA: B757-300";Planes;577;7106;59.33;12.3154
+"Boeing X-32A JSF";Planes;488;4857;32.77;9.9529
+"Collectable Wooden Train";Trains;366;6450;67.56;17.6230
+"Corsair F4U ( Bird Cage)";Planes;501;6812;29.34;13.5968
+"Diamond T620 Semi-Skirted Tanker";"Trucks and Buses";495;1016;68.29;2.0525
+"F/A 18 Hornet 1/72";Planes;494;551;54.40;1.1154
+"HMS Bounty";Ships;466;3501;39.83;7.5129
+"P-51-D Mustang";Planes;470;992;49.00;2.1106
+"Pont Yacht";Ships;442;414;33.30;0.9367
+"The Mayflower";Ships;389;737;43.30;1.8946
+"The Queen Mary";Ships;458;5088;53.63;11.1092
+"The Schooner Bluenose";Ships;500;1897;34.00;3.7940
+"The Titanic";Ships;451;1956;51.09;4.3370
+"The USS Constitution Ship";Ships;527;7083;33.97;13.4402

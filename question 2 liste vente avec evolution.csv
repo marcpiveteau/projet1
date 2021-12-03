@@ -1,0 +1,35 @@
+customername;salesrepemployeenumber;country;customernumber;ordernumber;status;montantcommande;differenc;resultat;comments
+"Land of Toys Inc.";1323;USA;131;10248;Cancelled;41445.21;41445.21;1;"Order was mistakenly placed. The warehouse noticed the lack of documentation."
+"Euro+ Shopping Channel";1370;Spain;141;10262;Cancelled;47065.36;47065.36;1;"This customer found a better offer from one of our competitors. Will call back to renegotiate."
+"Volvo Model Replicas, Co";1504;Sweden;144;10334;"On Hold";23014.17;23014.17;1;"The outstaniding balance for this customer exceeds their credit limit. Order will be shipped when a payment is received."
+"Alpha Cognac";1370;France;242;10397;Shipped;12432.32;12432.32;1;NULL
+"Lyon Souveniers";1337;France;250;10395;Shipped;17928.09;17928.09;1;"We must be cautions with this customer. Their VP of Sales resigned. Company may be heading down."
+"Anna's Decorations, Ltd";1611;Australia;276;10391;Shipped;29848.52;29848.52;1;NULL
+"Down Under Souveniers, Inc";1612;"New Zealand";323;10393;Shipped;33593.32;33593.32;1;"They want to reevaluate their terms agreement with Finance."
+"Reims Collectables";1337;France;353;10398;Shipped;46656.94;46656.94;1;NULL
+"Mini Auto Werke";1401;Austria;452;10392;Shipped;8807.12;8807.12;1;NULL
+FunGiftIdeas.com;1216;USA;462;10388;Shipped;30293.77;30293.77;1;NULL
+"Kelly's Gift Shop";1612;"New Zealand";496;10179;Cancelled;22963.60;22963.60;1;"Customer cancelled due to urgent budgeting issues. Must be cautious when dealing with them in the future. Since order shipped already we must discuss who would cover the shipping charges."
+"Mini Gifts Distributors Ltd.";1165;USA;124;10113;Shipped;11044.30;83598.04;2;NULL
+"Mini Gifts Distributors Ltd.";1165;USA;124;10135;Shipped;55601.84;83598.04;2;NULL
+"Mini Gifts Distributors Ltd.";1165;USA;124;10142;Shipped;56052.56;83598.04;2;NULL
+"Mini Gifts Distributors Ltd.";1165;USA;124;10182;Shipped;45084.38;83598.04;2;NULL
+"Mini Gifts Distributors Ltd.";1165;USA;124;10229;Shipped;43369.30;83598.04;2;NULL
+"Mini Gifts Distributors Ltd.";1165;USA;124;10271;Shipped;37430.89;83598.04;2;NULL
+"Mini Gifts Distributors Ltd.";1165;USA;124;10282;Shipped;47979.98;83598.04;2;NULL
+"Mini Gifts Distributors Ltd.";1165;USA;124;10312;Shipped;55639.66;83598.04;2;NULL
+"Mini Gifts Distributors Ltd.";1165;USA;124;10335;Shipped;6466.44;83598.04;2;NULL
+"Mini Gifts Distributors Ltd.";1165;USA;124;10357;Shipped;40676.26;83598.04;2;NULL
+"Mini Gifts Distributors Ltd.";1165;USA;124;10368;Shipped;13874.75;83598.04;2;"Can we renegotiate this one?"
+"Mini Gifts Distributors Ltd.";1165;USA;124;10371;Shipped;35137.54;83598.04;2;NULL
+"Mini Gifts Distributors Ltd.";1165;USA;124;10382;Shipped;47765.59;83598.04;2;"Custom shipping instructions sent to warehouse"
+"Mini Gifts Distributors Ltd.";1165;USA;124;10385;Shipped;4466.71;83598.04;2;NULL
+"Mini Gifts Distributors Ltd.";1165;USA;124;10390;Shipped;55902.50;83598.04;2;"They want to reevaluate their terms agreement with Finance."
+"Mini Gifts Distributors Ltd.";1165;USA;124;10396;Shipped;27695.54;83598.04;2;NULL
+"UK Collectables, Ltd.";1501;UK;201;10253;Cancelled;45443.54;8184.60;2;"Customer disputed the order and we agreed to cancel it. We must be more cautions with this customer going forward, since they are very hard to please. We must cover the shipping fees."
+"UK Collectables, Ltd.";1501;UK;201;10302;Shipped;23908.24;8184.60;2;NULL
+GiftsForHim.com;1612;"New Zealand";357;10202;Shipped;20220.04;1327.04;2;NULL
+GiftsForHim.com;1612;"New Zealand";357;10260;Cancelled;37769.38;1327.04;2;"Customer heard complaints from their customers and called to cancel this order. Will notify the Sales Manager."
+"Scandinavian Gift Ideas";1504;Sweden;448;10167;Cancelled;44167.09;72133.63;2;"Customer called to cancel. The warehouse was notified in time and the order didn't ship. They have a new VP of Sales and are shifting their sales model. Our VP of Sales should contact them."
+"Scandinavian Gift Ideas";1504;Sweden;448;10291;Shipped;48809.90;72133.63;2;NULL
+"Scandinavian Gift Ideas";1504;Sweden;448;10389;Shipped;27966.54;72133.63;2;NULL

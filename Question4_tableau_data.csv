@@ -1,0 +1,88 @@
+lastname;firstname;shippeddate;"sum(quantityordered * priceeach)";city;country;rang
+Jones;Barry;NULL;67181.26;London;UK;1
+Hernandez;Gerard;NULL;47065.36;Paris;France;2
+Vanauf;George;NULL;41445.21;NYC;USA;3
+Jones;Barry;2019-07-25;10549.01;London;UK;1
+Patterson;Steve;2019-07-24;10223.83;Boston;USA;2
+Tseng;"Foon Yue";2019-07-28;5494.78;NYC;USA;3
+Castillo;Pamela;2019-08-26;53959.21;Paris;France;1
+Jones;Barry;2019-08-16;50218.95;London;UK;2
+Hernandez;Gerard;2019-08-15;40206.20;Paris;France;3
+Castillo;Pamela;2019-09-04;52151.81;Paris;France;1
+Nishi;Mami;2019-09-19;51001.22;Tokyo;Japan;2
+Vanauf;George;2019-09-09;48125.76;NYC;USA;3
+Bott;Larry;2019-10-01;48425.69;London;UK;1
+Nishi;Mami;2019-10-29;44380.15;Tokyo;Japan;2
+Bondur;Loui;2019-10-14;33383.14;Paris;France;3
+Bondur;Loui;2019-11-24;67525.13;Paris;France;1
+Fixter;Andy;2019-11-12;45864.03;Sydney;Australia;2
+Castillo;Pamela;2019-11-13;35826.33;Paris;France;3
+Tseng;"Foon Yue";2019-12-18;58841.35;NYC;USA;1
+Gerard;Martin;2019-12-14;57131.92;Paris;France;2
+Thompson;Leslie;2019-12-06;32641.98;"San Francisco";USA;3
+Jennings;Leslie;2020-01-14;55601.84;"San Francisco";USA;1
+Bondur;Loui;2020-01-16;37339.73;Paris;France;2
+Hernandez;Gerard;2020-01-14;36598.74;Paris;France;3
+Jennings;Leslie;2020-02-10;94727.69;"San Francisco";USA;1
+Firrelli;Julie;2020-02-23;41016.75;Boston;USA;2
+Bott;Larry;2020-02-15;29716.86;London;UK;3
+Thompson;Leslie;2020-03-13;50342.74;"San Francisco";USA;1
+Fixter;Andy;2020-03-28;41554.73;Sydney;Australia;2
+Firrelli;Julie;2020-03-22;32680.31;Boston;USA;3
+Bott;Larry;2020-04-06;94233.76;London;UK;1
+Jones;Barry;2020-04-27;62392.07;London;UK;2
+Jennings;Leslie;2020-04-28;54682.68;"San Francisco";USA;3
+Castillo;Pamela;2020-05-02;154665.41;Paris;France;1
+Jennings;Leslie;2020-05-01;126704.47;"San Francisco";USA;2
+Hernandez;Gerard;2020-05-23;76602.15;Paris;France;3
+Firrelli;Julie;2020-06-02;111813.63;Boston;USA;1
+Tseng;"Foon Yue";2020-06-13;96932.71;NYC;USA;2
+Gerard;Martin;2020-06-02;87987.05;Paris;France;3
+Bondur;Loui;2020-07-17;98779.88;Paris;France;1
+Nishi;Mami;2020-07-08;67392.85;Tokyo;Japan;2
+Hernandez;Gerard;2020-07-31;59830.55;Paris;France;3
+Nishi;Mami;2020-08-02;47177.59;Tokyo;Japan;1
+Thompson;Leslie;2020-08-14;36070.47;"San Francisco";USA;2
+Jones;Barry;2020-08-29;32538.74;London;UK;3
+Thompson;Leslie;2020-09-02;80375.24;"San Francisco";USA;1
+Gerard;Martin;2020-09-06;47375.92;Paris;France;2
+Fixter;Andy;2020-09-06;44894.74;Sydney;Australia;3
+Vanauf;George;2020-10-14;42362.46;NYC;USA;1
+Bott;Larry;2020-10-06;41208.20;London;UK;2
+Hernandez;Gerard;2020-10-31;36069.26;Paris;France;3
+Hernandez;Gerard;2020-11-15;61576.65;Paris;France;1
+Jennings;Leslie;2020-11-26;42798.08;"San Francisco";USA;2
+Tseng;"Foon Yue";2020-11-06;33919.39;NYC;USA;3
+Marsh;Peter;2020-12-16;81442.28;Sydney;Australia;1
+Bott;Larry;2020-12-14;45443.54;London;UK;2
+Vanauf;George;2020-12-05;31102.85;NYC;USA;3
+Castillo;Pamela;2021-01-21;58038.86;Paris;France;1
+Tseng;"Foon Yue";2021-01-03;43311.89;NYC;USA;2
+Vanauf;George;2021-01-13;42044.77;NYC;USA;3
+Hernandez;Gerard;2021-02-09;67933.72;Paris;France;1
+Firrelli;Julie;2021-02-02;63683.37;Boston;USA;2
+Castillo;Pamela;2021-02-02;45352.47;Paris;France;3
+Jones;Barry;2021-03-09;124918.16;London;UK;1
+Patterson;Steve;2021-03-06;103693.79;Boston;USA;2
+Castillo;Pamela;2021-03-02;82223.23;Paris;France;3
+Bott;Larry;2021-04-14;87166.37;London;UK;1
+Hernandez;Gerard;2021-04-14;59183.77;Paris;France;2
+Patterson;Steve;2021-04-28;47411.33;Boston;USA;3
+Jones;Barry;2021-05-01;157221.16;London;UK;1
+Patterson;Steve;2021-05-21;134307.68;Boston;USA;2
+Vanauf;George;2021-05-03;125959.69;NYC;USA;3
+Hernandez;Gerard;2021-06-09;117884.54;Paris;France;1
+Bondur;Loui;2021-06-07;113514.43;Paris;France;2
+Castillo;Pamela;2021-06-01;92549.44;Paris;France;3
+Marsh;Peter;2021-07-01;52166.00;Sydney;Australia;1
+Bott;Larry;2021-07-24;45785.34;London;UK;2
+Thompson;Leslie;2021-07-30;39580.60;"San Francisco";USA;3
+Hernandez;Gerard;2021-08-20;98434.06;Paris;France;1
+Bott;Larry;2021-08-20;70373.42;London;UK;2
+Jennings;Leslie;2021-08-07;49012.29;"San Francisco";USA;3
+Jennings;Leslie;2021-09-01;154916.46;"San Francisco";USA;1
+Hernandez;Gerard;2021-09-01;136327.45;Paris;France;2
+Marsh;Peter;2021-09-25;33593.32;Sydney;Australia;3
+Bondur;Loui;2021-10-04;64585.03;Paris;France;1
+Jennings;Leslie;2021-10-06;27695.54;"San Francisco";USA;2
+Hernandez;Gerard;2021-10-06;12432.32;Paris;France;3
